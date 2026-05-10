@@ -36,7 +36,7 @@ scikit-learn初步了解与学习
 阶段三：Pytorch学习
 
 1.2026年5月1日-5月10日
-参考：
-https://datawhalechina.github.io/thorough-pytorch/
+参考：  
+https://datawhalechina.github.io/thorough-pytorch/  
 https://zh.d2l.ai/index.html
 
